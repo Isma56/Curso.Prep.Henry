@@ -1,0 +1,20 @@
+Definiciones:
+
+
+- Variables:
+Almacenamiento de valores.
+
+- Strings: 
+Utilizacion de caracteres, para describir caracteristica o valores (ya que, se pueden incluir numeros)
+
+- Funciones (argumentos, return):
+Fun: Medio que se utiliza para cambiar, modificar o calcular las variables.
+Arg: Variables dentro de la funcion, que seran trabajadas.
+Ret: Impresion de un reslutado de combinacion de variables, que deben arrojar un solo valor.
+
+- Declaraciones if: 
+Forma de seleccion de caminos para la funcion, es decir, si es verdadero o falso, para que la funcion pueda continuar trabajando.
+
+- Valores booleanos (true, false):
+True: si una expresion es verdadera.
+False: si una expresion es falsa.
