@@ -1,0 +1,11 @@
+Definiciones:
+
+- for:
+Metodo para trabajar con las variables, asignandole, condiciones y modificandola.
+
+- &&, ||, !:
+Evalua expresiones, para determinar si es true o false, segun corresponda.
+
+&&: y
+||: o
+!: not
