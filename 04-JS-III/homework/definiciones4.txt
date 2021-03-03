@@ -1,0 +1,2 @@
+Array:
+Se trata de un contenedor para almacenar cualquiera de los distintos de datos, incluyendo funciones.
